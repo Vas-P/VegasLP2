@@ -84,7 +84,7 @@ img {
 .hero .logo {
     width: 132px;
     height: 51px;
-    background: url('../img/logo.png') no-repeat;
+    background: url('../img/Logo.png') no-repeat;
     background-size: contain;
     position: absolute;
     top: 50px;
