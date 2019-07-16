@@ -296,7 +296,7 @@ img {
     }
     body {
         height: 1024px;
-        background-image: url('../img/Vegas_bg_tablet.jpg');
+        background-image: url('../img/vegas_bg_tablet.jpg');
     }
     .hero .hero__inner {
         align-items: center;
@@ -409,7 +409,7 @@ img {
 
     body {
         height: 1004px;
-        background-image: url('../img/Vegas_bg_mobile.jpg');
+        background-image: url('../img/vegas_bg_mobile.jpg');
     }
 
     .hero .hero__inner {
